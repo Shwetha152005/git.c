@@ -1,6 +1,10 @@
 shwetha br
 BDVT...
 acharya
+<<<<<<< HEAD
 college
 banglore
 engineering
+=======
+
+>>>>>>> parent of d943af0 (3rd commit)
